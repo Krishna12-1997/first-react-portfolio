@@ -1,0 +1,43 @@
+[
+    {
+      "title": " Weather App Using Express ",
+      "id": " Weather App Using Express and call API",
+      "leftLineFlex": 3,
+      "rightLineFlex": 1,
+      "thumbnailPosition": 600,
+      "offset": 200,
+      "link": "https://fdsww.sse.codesandbox.io",
+      "src": "https://cdn.wccftech.com/wp-content/uploads/2017/01/iOS-Weather-app-for-iPhone.png"
+    },
+    {
+      "title": " 'Bootstrap' Image Gallery",
+      "id": " 'Bootstrap' Image Gallery",
+      "leftLineFlex": 3,
+      "rightLineFlex": 1,
+      "thumbnailPosition": 200,
+      "offset": -500,
+      "link": "https://demogallery.netlify.app",
+      "src": "https://www.w3schools.com/css/responsiveImgGallery.jpg"
+    },
+    {
+      "title": "Responsive Blogger Website",
+      "id": "Responsive Blogger Website",
+      "leftLineFlex": 1,
+      "rightLineFlex": 3,
+      "thumbnailPosition": 900,
+      "offset": 300,
+      "link": "https://demo.krishna1997.repl.co",
+      "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2008/06/blogging-.jpg"
+    },
+    {
+      "title": "UI/UX Website in React JS",
+      "id": "UI/UX Website in React JS",
+      "leftLineFlex": 3,
+      "rightLineFlex": 2,
+      "thumbnailPosition": 100,
+      "offset": -600,
+      "link": "https://6pje9.csb.app",
+      "src": "https://yourserveradmin.com/wp-content/uploads/2020/04/uxui.jpg"
+    }
+  ]
+  
